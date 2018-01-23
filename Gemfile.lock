@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/luciuschoi/korean_zipcode_finder.git
-  revision: c47e5ecb7f22379e5578764246b55b2af20762ce
+  revision: 835bca191da71dada540c7f37a575321578fa0a6
   specs:
-    korean_zipcode_finder (0.2.2)
+    korean_zipcode_finder (0.2.3)
       bootstrap (~> 4.0.0)
       iconv
       nokogiri
